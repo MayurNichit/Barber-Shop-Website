@@ -406,3 +406,6 @@ hr{
 		top:25%;
 	}
 }
+html {
+  scroll-behavior: smooth;
+}
